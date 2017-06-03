@@ -8,12 +8,15 @@ Open it and click ***Add***
 Add a title and a note.
 Click ***Save*** and you are done
 You have now created your first Opus note, you can acces your notes by clicking on ***My Notes***.
-<img src="https://goo.gl/photos/Z4bRWqRECxyqQQeN6">
+<img src="Screenshot_20170603-235646.png">
+
+<img src="Screenshot_20170603-235728.png">
+
 ### Edit a note
 
 To Edit a note simply click on ***My Notes*** and click on the note you want to edit.
 When you are done editing click ***Save***
-<img src="">
+<img src="Screenshot_20170603-235737.png">
 
 ### Delete or Mark a Task/Note as done
 
