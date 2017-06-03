@@ -8,9 +8,9 @@ Open it and click ***Add***
 Add a title and a note.
 Click ***Save*** and you are done
 You have now created your first Opus note, you can acces your notes by clicking on ***My Notes***.
-<img src="Screenshot_20170603-235646.png">
+<img src="Screenshot_20170603-235646.png" width="540" height="960">
 
-<img src="Screenshot_20170603-235728.png">
+<img src="Screenshot_20170603-235728.png" width="540" height="960">
 
 ### Edit a note
 
