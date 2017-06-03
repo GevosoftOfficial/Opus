@@ -60,6 +60,7 @@ Contact Website: <a href="http://contact.tellspace.ml"> http://contact.tellspace
 
 
 #### Credits
+Logo (OpusAppLogo.png) Made By:
  Check out the new logo that I created on <a href="http://logomakr.com" title="Logo Maker">LogoMaker.com</a> https://logomakr.com/3jZ3HV3jZ3HV
 
 <a target="_blank" href="http://privacypolicies.com/privacy/view/6Hu1Fi">Privacy policy</a>
