@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+# Welcome to Opus
 
-You can use the [editor on GitHub](https://github.com/TellSpaceOfficial/Opus/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Get started with Opus
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Download the Opus App from <a href="#"> Google Play </a>
+Open it and click ***Add***
+Add a title and a note.
+Click ***Save*** and you are done
+You have now created your first Opus note, you can acces your notes by clicking on ***My Notes***.
+### Edit a note
 
-### Markdown
+To Edit a note simply click on ***My Notes*** and click on the note you want to edit.
+When you are done editing click ***Save***
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Delete or Mark a Task/Note as done
 
-```markdown
-Syntax highlighted code block
+If you want to delete or mark a note as done simply open the note you want to delete and click on ***Check*** this will move your note to the archive were you can acces your lastly deleted or Checket note.
+***Warning! The archive only stores the lastly checket note the other ones will be overited in the archive.***
 
-# Header 1
-## Header 2
-### Header 3
+# Features
 
-- Bulleted
-- List
+## Voice input
 
-1. Numbered
-2. List
+If you want to quickly make a note you can simply do it using your _voic_. Just longclick the ***Add*** button and follow the instructions.
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+For more details see the <a href="#"> Documentation and Help pages </a>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TellSpaceOfficial/Opus/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Tell Space
 
-### Support or Contact
+Tell Space is a technology development company for more information see <a href="http://tellspace.ml"> Tell Spaces Official Website </a>
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Contact
+
+Email: com.tellspace@gmail.com
+Instagram: @tellspace
+Github: TellSpaceOfficial
+Contact Website: <a href="http://contact.tellspace.ml"> http://contact.tellspace.ml </a>
+
+
+
+
+### Copyright Tell Space 2017. Opus.
