@@ -1,4 +1,5 @@
 # Welcome to Opus
+<img src="OpusAppLogo.png">
 
 ## Get started with Opus
 
@@ -7,15 +8,18 @@ Open it and click ***Add***
 Add a title and a note.
 Click ***Save*** and you are done
 You have now created your first Opus note, you can acces your notes by clicking on ***My Notes***.
+<img src="">
 ### Edit a note
 
 To Edit a note simply click on ***My Notes*** and click on the note you want to edit.
 When you are done editing click ***Save***
+<img src="">
 
 ### Delete or Mark a Task/Note as done
 
 If you want to delete or mark a note as done simply open the note you want to delete and click on ***Check*** this will move your note to the archive were you can acces your lastly deleted or Checket note.
 ***Warning! The archive only stores the lastly checket note the other ones will be overited in the archive.***
+<img src="">
 
 # Features
 
