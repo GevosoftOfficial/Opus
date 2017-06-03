@@ -1,2 +1,4 @@
 theme: jekyll-theme-cayman
 title: Opus A Tell Space Application
+gems:
+  - jekyll-sitemap
