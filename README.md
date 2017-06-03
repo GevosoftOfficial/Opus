@@ -27,6 +27,7 @@ If you want to quickly make a note you can simply do it using your _voic_. Just 
 
 
 For more details see the <a href="#"> Documentation and Help pages </a>
+# About
 
 ## Tell Space
 
