@@ -4,7 +4,13 @@
 
 ## Get started with Opus
 
-Download the Opus APK from <a href="https://drive.google.com/uc?export=download&id=0B6FSSEN7obfydVhJZEkxMzZmbmc"> HERE </a>
+Download and isnstall the Opus APK from
+<br>
+<form action="https://drive.google.com/uc?export=download&id=0B6FSSEN7obfydVhJZEkxMzZmbmc">
+    <input type="submit" value="Download" />
+</form>
+<br>
+(Download link using Google Drive)
 (Will soon be published to Google Play Store)
 Open it and click ***Add***.<br>
 Add a title and a note.
