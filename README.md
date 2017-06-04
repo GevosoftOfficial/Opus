@@ -53,19 +53,33 @@ For more details see the <a href="#"> Documentation and Help pages </a>
 
 Tell Space is a technology development company for more information see <a href="http://tellspace.ml"> Tell Spaces Official Website </a>
 
+# Contact
 ## Contact
-
-Email: com.tellspace@gmail.com
-Instagram: @tellspace
-Github: TellSpaceOfficial
-Contact Website: <a href="http://contact.tellspace.ml"> http://contact.tellspace.ml </a>
-
-
-## Credits
-Logo (OpusAppLogo.png) Credits:
- Check out the new logo that I created on <a href="http://logomakr.com" title="Logo Maker">LogoMaker.com</a> https://logomakr.com/3jZ3HV3jZ3HV
+Email: contact@tellspace.ml
+<br>
+<br>
+Instagram: <a href="http://www.instagram.com/tellspace/"> @tellspace </a>
+<br>
+<br>
+Hashtags: #tellspace, #onyxbash #opusapp
+<br>
+<br>
+Github: <a href="https://github.com/TellSpaceOfficial"> TellSpaceOfficial </a>
 <br>
 <br>
 <br>
+## Support
+### Having problems?
+### Comment on github, instagram or email us:
+<br>
+Email: support@tellspace.ml
+<br>
+<br>
+Instagram: <a href="http://www.instagram.com/tellspace/"> @tellspace </a>
+<br>
+<br>
+Github: <a href="https://github.com/TellSpaceOfficial"> TellSpaceOfficial </a>
+<br> <br>
+## Contact Form
 <br>
 <br>
