@@ -71,7 +71,7 @@ Github: <a href="https://github.com/TellSpaceOfficial"> TellSpaceOfficial </a>
 ## Support
 ### Having problems?
 ### Read the Docuemtnation,Comment on github, instagram or email us:
-Documentation: <a href="doc.opusapp.ml"> http://doc.opusapp.ml </a>
+Documentation: <a href="http://doc.opusapp.ml"> http://doc.opusapp.ml </a>
 <br>
 Email: support@tellspace.ml
 <br>
