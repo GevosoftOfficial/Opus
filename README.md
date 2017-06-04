@@ -44,7 +44,7 @@ If you want to quickly make a note you can simply do it using your _voice_. Just
 
 <br>
 
-For more details see the <a href="#"> Documentation and Help pages </a>
+For more details see the <a href="http://doc.opusapp.ml"> Documentation and Help pages </a>
 <br>
 <br>
 # About
