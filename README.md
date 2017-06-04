@@ -6,7 +6,7 @@
 
 Download and isnstall the Opus APK from Google Drive (Will soon be published to Google Play Store)
 <br>
-<form action="https://drive.google.com/uc?export=download&id=0B6FSSEN7obfydVhJZEkxMzZmbmc">
+<form action="dl.dropboxusercontent.com/s/7rk93wzbqesuzsb/Opus.apk?dl=0">
     <input type="submit" value="Download" />
 </form>
 <br>
