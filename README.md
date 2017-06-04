@@ -1,5 +1,5 @@
 # Welcome to Opus
-<img src="OpusAppLogo.png">
+<img src="logo.png">
 <br>
 
 ## Get started with Opus
