@@ -1,5 +1,5 @@
 theme: jekyll-theme-cayman
 title: Opus &#124; A Tell Space Application
-description: Opus is an Android application that allows users to easily create notes and task lists in a simple and minimalistic app.
+description: Opus is an Android application that allows users to easily create notes and task lists in a simple and minimalistic interface.
 gems:
   - jekyll-sitemap
