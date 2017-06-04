@@ -32,7 +32,7 @@ If you want to delete or mark a note as done simply open the note you want to de
 ***Warning! The archive only stores the lastly checket note the other ones will be overited in the archive.***
 <br>
 <br>
-<img src="" width="270" height="480">
+<img src="Screenshot_20170604-002200.png" width="270" height="480">
 <br>
 
 # Features
