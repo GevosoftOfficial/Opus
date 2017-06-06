@@ -6,15 +6,10 @@
 
 Download and install the Opus APK
 - From Dropbox DDL (direct download link).
-- Aptoide (aptoide.com).
 - Soon Google Play Store.
 <br>
 <form action="http://dl.dropboxusercontent.com/s/7rk93wzbqesuzsb/Opus.apk?dl=0">
     <input type="submit" value="Dropbox Download" />
-</form>
-<br>
-<form action="http://tellspace.store.aptoide.com">
-    <input type="submit" value="Aptoide Download" />
 </form>
 <br>
 Open Opus and click the ***Add*** button.<br>
