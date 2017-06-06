@@ -4,15 +4,15 @@
 
 ## Get started with Opus
 
-Download and isnstall the Opus APK from Dropbox DDL (direct download link) (Will soon be published to Google Play Store)
+Download and install the Opus APK from Dropbox DDL (direct download link) (Will soon be published to Google Play Store)
 <br>
 <form action="http://dl.dropboxusercontent.com/s/7rk93wzbqesuzsb/Opus.apk?dl=0">
     <input type="submit" value="Download" />
 </form>
 <br>
-Open it and click ***Add***.<br>
+Open Opus and click the ***Add*** button.<br>
 Add a title and a note.
-Click ***Save*** and you are done.
+Click ***Save*** when you are done.
 You have now created your first Opus note, you can acces your notes by clicking on ***My Notes***.
 <br>
 <br>
@@ -24,7 +24,7 @@ You have now created your first Opus note, you can acces your notes by clicking 
 
 ### Edit a note
 
-To Edit a note simply click on ***My Notes*** and click on the note you want to edit.
+To Edit a note simply click the ***My Notes*** button and click on the note you want to edit.
 When you are done editing click ***Save***.
 <br>
 <br>
@@ -33,7 +33,7 @@ When you are done editing click ***Save***.
 
 ### Delete or Mark a Task/Note as done
 
-If you want to delete or mark a note as done simply open the note you want to delete and click on ***Check***. This will remove your note for _My Notes_ and move it to the archive were you can acces your lastly deleted or Checket note.
+If you want to delete or mark a note as done simply open the note you want to delete and click on ***Check***. This will move your note for _My Notes_ to the archive were you can acces your lastly deleted or Checket note.
 ***Warning! The archive only stores the lastly checket note the other ones will be overited in the archive.***
 <br>
 <br>
