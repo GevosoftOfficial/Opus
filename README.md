@@ -50,6 +50,12 @@ If you want to quickly make a note you can simply do it using your _voice_. Just
 
 For more details see the <a href="http://doc.opusapp.ml"> Documentation and Help pages </a>
 <br>
+
+## Follow the development process on the Tell Space Blog!
+
+If you want to follow the deveopment process of Opus (and other news and updates for Tell Space) go check out our new blog!
+You can find the tell space blog here: <a target="blank" href="http://tellspace.wordpress.com"> tellspace.wordpress.com </a>
+
 <br>
 # About
 
