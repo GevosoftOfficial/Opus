@@ -67,7 +67,7 @@ Tell Space is a technology development company for more information see <a href=
 
 # Contact
 ## Contact
-Email: contact@tellspace.tk
+Email: contact@tellspacehq.ml
 <br>
 <br>
 Instagram: <a href="http://www.instagram.com/tellspace/"> @tellspace </a>
@@ -85,7 +85,7 @@ Github: <a href="https://github.com/TellSpaceOfficial"> TellSpaceOfficial </a>
 ### Read the Docuemtnation,Comment on github, instagram or email us:
 Documentation: <a href="http://doc.opusapp.ml"> http://doc.opusapp.ml </a>
 <br>
-Email: info@tellspace.tk
+Email: info@tellspacehq.ml
 <br>
 <br>
 Instagram: <a href="http://www.instagram.com/tellspace/"> @tellspace </a>
