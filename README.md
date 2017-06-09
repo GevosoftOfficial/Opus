@@ -1,4 +1,5 @@
 # Welcome to Opus
+### If you are on mobile try the 'Add To Homescreen' to get a mobile web-app experience!
 <img src="logo.png" width="300" height="300">
 <br>
 
