@@ -7,12 +7,8 @@
 
 Download and install the Opus App
 - Google Play Store.
-<form action="http://app.opusapp.ml">
+<form action="https://play.google.com/store/apps/details?id=com.thunkable.android.com_tellspace.Opus">
     <input type="submit" value="Google Play" />
-</form>
-- From Dropbox DDL (direct download link).
-<form action="http://dl.dropboxusercontent.com/s/c5u2qehgrkp8qve/Opus.apk?dl=0">
-    <input type="submit" value="Dropbox Download" />
 </form>
 <br>
 Open Opus and click the ***Add*** button.<br>
