@@ -10,7 +10,6 @@ Download and install the Opus App
 <form action="http://app.opusapp.ml">
     <input type="submit" value="Google Play" />
 </form>
-<br>
 - From Dropbox DDL (direct download link).
 <form action="http://dl.dropboxusercontent.com/s/c5u2qehgrkp8qve/Opus.apk?dl=0">
     <input type="submit" value="Dropbox Download" />
