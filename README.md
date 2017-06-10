@@ -5,9 +5,13 @@
 
 ## Get started with Opus
 
-Download and install the Opus APK
+Download and install the Opus App
+- Google Play Store.
 - From Dropbox DDL (direct download link).
-- Soon Google Play Store.
+<br>
+<form action="http://app.opusapp.ml">
+    <input type="submit" value="Google Play" />
+</form>
 <br>
 <form action="http://dl.dropboxusercontent.com/s/c5u2qehgrkp8qve/Opus.apk?dl=0">
     <input type="submit" value="Dropbox Download" />
