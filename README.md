@@ -5,12 +5,9 @@
 
 ## Get started with Opus
 
-Download and install the Opus App
-- Google Play Store.
-<form action="https://play.google.com/store/apps/details?id=com.thunkable.android.com_tellspace.Opus">
-    <input type="submit" value="Google Play" />
-</form>
+Download the Opus App From Google Play
 <br>
+
 Open Opus and click the ***Add*** button.<br>
 Add a title and a note.
 Click ***Save*** when you are done.
