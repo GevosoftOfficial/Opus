@@ -29,10 +29,11 @@ When you are done editing click ***Save***.
 <img src="Screenshot_20170603-235737.png" width="270" height="480">
 <br>
 
-### Delete or Mark a Task/Note as done
+### Delete and Check a note
 
-If you want to delete or mark a note as done simply open the note you want to delete and click on ***Check***. This will move your note for _My Notes_ to the archive were you can acces your lastly deleted or Checket note.
+If you want to delete or "check" a note (think of it like a to-do list) simply open the note you want to delete/check and click on ***Check***. This will move your note for _My Notes_ to the archive were you can acces your lastly deleted or Checket note.
 ***Warning! The archive only stores the lastly checket note the other ones will be overited in the archive.***
+You can restore your lastly checked note from the archive by clicking on it and select 'Restore'
 <br>
 <br>
 <img src="Screenshot_20170604-002200.png" width="270" height="480">
