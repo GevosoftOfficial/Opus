@@ -50,45 +50,39 @@ If you want to quickly make a note you can simply do it using your _voice_. Just
 For more details see the <a href="http://doc.opusapp.ml"> Documentation and Help pages </a>
 <br>
 
-## Follow the development process on the Tell Space Blog!
-
-If you want to follow the deveopment process of Opus (and other news and updates for Tell Space) go check out our new blog!
-You can find the tell space blog here: <a target="blank" href="http://tellspace.wordpress.com"> tellspace.wordpress.com </a>
-
-<br>
 # About
 
-## Tell Space
+## Gevosoft
 
-Tell Space is a technology development company for more information see <a href="http://tellspace.ml"> Tell Spaces Official Website </a>
+Gevosoft is a technology development company for more information see <a href="http://gevosoft.ml"> Gevosoft's Official Website </a>
 
 # Contact
 ## Contact
-Email: contact@tellspacehq.ml
+Email: contact.gevosoft@gmail.com
 <br>
 <br>
-Instagram: <a href="http://www.instagram.com/tellspace/"> @tellspace </a>
+Instagram: <a href="http://www.instagram.com/gevosoft/"> @gevosoft </a>
 <br>
 <br>
-Hashtags: #tellspace, #onyxbash #opusapp
+Hashtags: #gevosoft, #onyxbash #opusapp
 <br>
 <br>
-Github: <a href="https://github.com/TellSpaceOfficial"> TellSpaceOfficial </a>
+Github: <a href="https://github.com/GevosoftOfficial"> GevosoftOfficial </a>
 <br>
 <br>
 <br>
 ## Support
 ### Having problems?
-### Read the Docuemtnation,Comment on github, instagram or email us:
+### Read the Documentation,Comment on Github.com, Instagram DM us or email us:
 Documentation: <a href="http://doc.opusapp.ml"> http://doc.opusapp.ml </a>
 <br>
-Email: info@tellspacehq.ml
+Email: contact.gevosoft@gmail.com
 <br>
 <br>
-Instagram: <a href="http://www.instagram.com/tellspace/"> @tellspace </a>
+Instagram: <a href="http://www.instagram.com/gevosoft"> @gevosoft </a>
 <br>
 <br>
-Github: <a href="https://github.com/TellSpaceOfficial"> TellSpaceOfficial </a>
+Github: <a href="https://github.com/GevosoftOfficial"> GevosoftOfficial </a>
 <br> <br>
 ## Contact Form
 <br>
