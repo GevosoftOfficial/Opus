@@ -22,8 +22,11 @@ You have now created your first Opus note, you can open & edit your note by tapp
 
 ### Edit a note
 
-To Edit a note simply tap the on the note you want to edit.
+To Open & Edit a note simply tap the on the note you want to edit, this willl open the note. Then tap on the pencil icon to start editing.
 When you are done editing tap ***Save***.
+<br>
+<br>
+<img src="Screenshot_open_note.png" width="270" height="480">
 <br>
 <br>
 <img src="Screenshot_edit_note.png" width="270" height="480">
