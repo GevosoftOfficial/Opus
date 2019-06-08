@@ -14,10 +14,10 @@ tap ***Save*** when you are done.
 You have now created your first Opus note, you can open & edit your note by tapping on it in the notes list.
 <br>
 <br>
-<img src="Screenshot_home.png" width="270" height="480">
+<img src="Screenshot_home.jpg" width="270" height="480">
 <br>
 <br>
-<img src="Screenshot_new_note.png" width="270" height="480">
+<img src="Screenshot_new_note.jpg" width="270" height="480">
 <br>
 
 ### Edit a note
@@ -26,10 +26,10 @@ To Open & Edit a note simply tap the on the note you want to edit, this willl op
 When you are done editing tap ***Save***.
 <br>
 <br>
-<img src="Screenshot_open_note.png" width="270" height="480">
+<img src="Screenshot_open_note.jpg" width="270" height="480">
 <br>
 <br>
-<img src="Screenshot_edit_note.png" width="270" height="480">
+<img src="Screenshot_edit_note.jpg" width="270" height="480">
 <br>
 
 ### Delete or archive a note
@@ -39,10 +39,10 @@ If you want to delete or archive a note simply open the note you want to delete/
 You can restore your lastly checked note from the archive by open in the archive from the options menu, tapping on it and selecting _YES_. If you choose to delete the note the app will remove the note from your notes list and ***NOT*** move it to the archive!
 <br>
 <br>
-<img src="Screenshot_delete_selection.png" width="270" height="480">
+<img src="Screenshot_delete_selection.jpg" width="270" height="480">
 <br>
 <br>
-<img src="Screenshot_archive.png" width="270" height="480">
+<img src="Screenshot_archive.jpg" width="270" height="480">
 <br>
 
 
