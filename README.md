@@ -8,63 +8,58 @@
 Download the Opus App From Google Play
 <br>
 
-Open Opus and tap the ***Add*** button.<br>
+Open Opus and tap on the ***New Note*** button.<br>
 Add a title and a note.
 tap ***Save*** when you are done.
-You have now created your first Opus note, you can access your notes by tapping on ***My Notes***.
+You have now created your first Opus note, you can open & edit your note by tapping on it in the notes list.
 <br>
 <br>
-<img src="Screenshot_20170603-235646.png" width="270" height="480">
+<img src="Screenshot_home.png" width="270" height="480">
 <br>
 <br>
-<img src="Screenshot_20170603-235728.png" width="270" height="480">
+<img src="Screenshot_new_note.png" width="270" height="480">
 <br>
 
 ### Edit a note
 
-To Edit a note simply tap the ***My Notes*** button and tap on the note you want to edit.
+To Edit a note simply tap the on the note you want to edit.
 When you are done editing tap ***Save***.
 <br>
 <br>
-<img src="Screenshot_20170603-235737.png" width="270" height="480">
+<img src="Screenshot_edit_note.png" width="270" height="480">
 <br>
 
-### Delete and Check a note
+### Delete or archive a note
 
-If you want to delete or "check" a note (think of it like a to-do list) simply open the note you want to delete/check and tap on ***Check***. This will move your note for _My Notes_ to the archive were you can acces your lastly deleted or checked note.
-***Warning! The archive only stores the lastly checked note, the other ones will be overwritten in the archive.***
-You can restore your lastly checked note from the archive by tapping on it and select 'Restore'
+If you want to delete or archive a note simply open the note you want to delete/archive and tap on ***Delete*** button. The app will then ask you if you want to delete or archive the note, if you choose to archive the note the app will move the note to the archive were you can acces your lastly archived note.
+***Warning! The archive only stores one note at a time, archiving more notes will overwrite the last note.***
+You can restore your lastly checked note from the archive by open in the archive from the options menu, tapping on it and selecting _YES_. If you choose to delete the note the app will remove the note from your notes list and ***NOT*** move it to the archive!
 <br>
 <br>
-<img src="Screenshot_20170604-002200.png" width="270" height="480">
+<img src="Screenshot_delete_selection.png" width="270" height="480">
+<br>
+<br>
+<img src="Screenshot_archive.png" width="270" height="480">
 <br>
 
-# Features
 
-## Voice input
+# More
 
-If you want to quickly make a note you can simply do it by using your _voice_. Just hold in the ***Add*** button and follow the instructions.
-
-<br>
-
-For more details see the <a href="http://doc.opusapp.ml"> Documentation and Help pages </a>
+### For more details see the <a href="http://doc.opusapp.ml"> Documentation and Help pages </a>
 <br>
 
 # About
 
 ## Gevosoft
 
-Gevosoft is a technology development company for more information see <a href="http://gevosoft.ml"> Gevosoft's Official Website </a>
+Gevosoft is a technology development company for more information see <a href="http://gevosoft.com"> Gevosoft's Official Website </a>
 
 # Contact
 ## Contact
-Email: contact.gevosoft@gmail.com
+Email: contact@gevosoft.com
 <br>
 <br>
 Instagram: <a href="http://www.instagram.com/gevosoft/"> @gevosoft </a>
-<br>
-<br>
-Hashtags: #gevosoft, #onyxbash #opusapp
 <br>
 <br>
 Github: <a href="https://github.com/GevosoftOfficial"> GevosoftOfficial </a>
@@ -84,6 +79,6 @@ Instagram: <a href="http://www.instagram.com/gevosoft"> @gevosoft </a>
 <br>
 Github: <a href="https://github.com/GevosoftOfficial"> GevosoftOfficial </a>
 <br> <br>
-## Contact Form
+## Contact
 <br>
 <br>
